@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/login_item_operador.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/login_item_operador.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/dialog_cobro_canarypay.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/dialog_cobro_canarypay.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_activity_content_v1.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_activity_content_v1.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/activity_cobro_canarypay.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/activity_cobro_canarypay.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_header_cocina_acumulado_v2.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_header_cocina_acumulado_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_header_cocina.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_header_cocina.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/activity_buscar_cliente.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/activity_buscar_cliente.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/selector_mesa_activity.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/selector_mesa_activity.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/activity_manual_pdf.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/activity_manual_pdf.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/cocina_activity.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/cocina_activity.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_plato_cocina_compatible.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_plato_cocina_compatible.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_plato_cocina_v2.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_plato_cocina_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/activity_visor_docs.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/activity_visor_docs.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_activity_content_v3.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_activity_content_v3.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_header_cocina_acumulado_v3.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_header_cocina_acumulado_v3.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/activity_clientes.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/activity_clientes.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_item_grid_v2.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_item_grid_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_plato_acumulado_compatible.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_plato_acumulado_compatible.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_activity.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_activity.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/activity_buscar.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/activity_buscar.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/activity_print.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/activity_print.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/toast_custom_info.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/toast_custom_info.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_tab_mesas.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_tab_mesas.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_plato_acumulado.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_plato_acumulado.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_item_linea.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_item_linea.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_articulo.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_articulo.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_dialog_editor_linea.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_dialog_editor_linea.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_barra_progreso.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_barra_progreso.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/content_buscador.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/content_buscador.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_activity_content_v2.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_activity_content_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/toast_custom_error.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/toast_custom_error.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/login_activity_content.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/login_activity_content.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_dialog_editor_comensales.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_dialog_editor_comensales.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/selector_mesa_item.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/selector_mesa_item.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/cobros_tpv_activity.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/cobros_tpv_activity.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/login_item_operador_v2.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/login_item_operador_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_header_cocina_compatible.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_header_cocina_compatible.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/activity_pedido.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/activity_pedido.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_cobro.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_cobro.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/dialog_cobros.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/dialog_cobros.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/selector_mesa_item_v2.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/selector_mesa_item_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/item_cliente_v2.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/item_cliente_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/cobros_tpv_dialog_firma.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/cobros_tpv_dialog_firma.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/cocina_content_v2.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/cocina_content_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_item_grid.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_item_grid.xml"
+    },
+    {
+        "merged": "com.atecresa.application-mergeDebugResources-57:/layout/comanda_item_combo_unidades.xml",
+        "source": "com.atecresa.application-MyGest 2-59:/layout/comanda_item_combo_unidades.xml"
+    }
+]

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_negro"
+    android:orientation="vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/bt_firma_cancelar"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_weight="0.25"
+            android:background="@android:drawable/editbox_background"
+            android:contentDescription="@string/txt_volver"
+            app:srcCompat="@android:drawable/ic_menu_revert" />
+
+        <ImageButton
+            android:id="@+id/bt_dialog_eliminar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:background="@android:drawable/editbox_background"
+            android:contentDescription="@string/txt_boton_mover"
+            app:srcCompat="@android:drawable/ic_menu_delete" />
+
+        <ImageButton
+            android:id="@+id/btMover"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:background="@android:drawable/editbox_background"
+            android:contentDescription="@string/txt_boton_mover"
+            app:srcCompat="@drawable/ic_action_mover" />
+
+        <ImageButton
+            android:id="@+id/bt_dialog_guardar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25"
+            android:background="@android:drawable/editbox_background"
+            android:contentDescription="@string/txt_boton_mover"
+            app:srcCompat="@drawable/ic_action_confirmar_pedido" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_unidades"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.91"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/dialog_unidades"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/blanco"
+            android:typeface="monospace" />
+
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="match_parent" />
+
+        <EditText
+            android:id="@+id/tv_celda_unidades"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="50"
+            android:background="@color/gris"
+            android:text="12"
+            android:inputType="numberDecimal"
+            android:textColor="@color/negro"
+            android:textSize="25sp"
+            tools:ignore="HardcodedText,LabelFor" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_botones_unidades"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bt_dialog_restar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.22"
+            android:textColor="#000000"
+            android:background="@android:drawable/editbox_background"
+            android:text="-"
+            tools:ignore="HardcodedText" />
+
+        <Space
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="0.08" />
+
+        <Button
+            android:id="@+id/bt_dialog_sumar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="0.22"
+            android:background="@android:drawable/editbox_background"
+            android:textColor="#000000"
+            android:text="+"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_cambio_precio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.91"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/dialog_precio"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/blanco"
+            android:typeface="monospace" />
+
+        <Space
+            android:layout_width="20dp"
+            android:layout_height="match_parent" />
+
+        <EditText
+            android:id="@+id/tv_celda_precio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/gris"
+            android:inputType="numberDecimal"
+            android:paddingLeft="5dp"
+            android:textColor="@color/negro"
+            tools:ignore="LabelFor" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="10"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/txt_etiqueta_texto_libre"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/blanco"
+            android:typeface="monospace" />
+
+        <EditText
+            android:id="@+id/tv_edit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/gris"
+            android:ems="10"
+            android:gravity="top|left"
+            android:inputType="textMultiLine"
+            android:lines="4"
+            android:minLines="4"
+            android:paddingLeft="5dp"
+            android:textColor="@color/negro"
+            tools:ignore="LabelFor" />
+    </LinearLayout>
+
+</LinearLayout>

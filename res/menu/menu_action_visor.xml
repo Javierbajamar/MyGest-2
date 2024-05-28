@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="AppCompatResource">
+
+    <item
+        android:id="@+id/action_visor_cancelar"
+        android:icon="@drawable/ic_backspace_24dp"
+        android:title="@string/txt_volver"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_visor_enviar"
+        android:icon="@drawable/ic_share"
+        android:title="@string/compartir"
+        app:showAsAction="ifRoom"/>
+
+
+
+</menu>

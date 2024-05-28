@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="azul">#0000ff</color>
+    <color name="blanco">#ffffff</color>
+    <color name="gris">#82949c</color>
+    <color name="negro">#000000</color>
+    <color name="naranja_app">#fd912b</color>
+    <color name="gris_canarypay">#757575</color>
+
+</resources>

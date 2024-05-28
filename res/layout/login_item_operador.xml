@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:drawable/btn_default_small"
+    android:minHeight="110dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtSuperior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="5"
+        android:height="0dp"
+        android:gravity="center"
+        android:text="Nombre Operador"
+        android:textColor="@color/blanco"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:drawable/btn_default_small"
+    android:gravity="center"
+    android:minHeight="130dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtSuperior"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:gravity="top|center"
+        android:text="Mesa 1 (10 comensales)"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/txtInferior"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:gravity="center|bottom"
+        android:text="Importe: 10,00"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

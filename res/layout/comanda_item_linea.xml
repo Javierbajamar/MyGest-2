@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ITEM PARA LISTA DE PLATOS DE LA COMANDA -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="40dp"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/img_enlace"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/descripcion_content"
+        app:srcCompat="@drawable/ic_enlace"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/txt_comanda_uds"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="1.5"
+        android:gravity="center_vertical|start"
+        android:paddingStart="4dp"
+        android:text="10 x"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="italic"
+        android:typeface="sans"
+        tools:ignore="HardcodedText" />
+
+  <TextView
+        android:id="@+id/txt_comanda_descripcion"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="8"
+        android:gravity="center_vertical|start"
+        android:text="Descripcion"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="italic"
+        android:typeface="sans"
+      tools:ignore="HardcodedText" />
+
+   <TextView
+        android:id="@+id/txt_comanda_pvp"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_weight="3"
+        android:gravity="end|center_vertical"
+        android:paddingEnd="4dp"
+        android:text="--"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="italic"
+        android:typeface="sans"
+       tools:ignore="HardcodedText" />
+
+</LinearLayout>

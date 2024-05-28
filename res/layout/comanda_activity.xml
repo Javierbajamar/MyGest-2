@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.atecresa.activities.ComandaActivityV3">
+    <!-- APPBARLAYOUT CON UNA IMAGEN Y LA TOOLBAR ENCIMA -->
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/barra_superior_comanda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarComanda"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@android:color/transparent"
+            app:popupTheme="@style/ThemeOverlay.AppCompat" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/comanda_activity_content_v3" />
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.bottomappbar.BottomAppBar
+            android:id="@+id/bottom_app_bar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_gravity="bottom"
+            app:backgroundTint="?attr/colorPrimary"
+            app:fabAlignmentMode="end"
+            app:fabCradleMargin="10dp"
+            app:hideOnScroll="true"
+            app:layout_scrollFlags="scroll|enterAlways"/>
+
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_check_v2"
+            android:tint="@color/blanco"
+            app:backgroundTint="?attr/colorButtonNormal"
+            app:layout_anchor="@id/bottom_app_bar" />
+
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

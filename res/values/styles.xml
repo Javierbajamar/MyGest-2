@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- THEME PRINCIPAL DE LA APLICACIÓN -->
+
+    <style name="MygestAppTheme" parent="Base.Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="colorAccent">@color/colorAccent</item>-->
+        <item name="actionBarPopupTheme">@style/SubmenuHeaderStyle</item>
+    </style>
+
+    <style name="MygestAppThemeComanda" parent="Base.Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="actionBarPopupTheme">@style/SubmenuHeaderStyle</item>
+    </style>
+
+
+    <style name="MygestAppTheme.NoActionBar" parent="Base.Theme.AppCompat">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark" />
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.DayNight.Dialog.Alert" />
+
+    <style name="SubmenuHeaderStyle" parent="Base.Theme.AppCompat">
+        <!-- ESTO COMENTADO PARA VER COMO SALEN LOS MENÚS. HAY QUE PROBAR EN API 19
+        <item name="android:colorBackground">@color/negro</item>
+        <item name="android:textColor">@color/blanco</item>
+        -->
+    </style>
+
+    <style name="myDialog" parent="Theme.AppCompat.Dialog">
+
+    </style>
+
+    <style name="MygestAppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="MygestAppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

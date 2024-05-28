@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_pedido"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+
+        <ListView
+            android:id="@+id/listaPedido"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+        </ListView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/dialog_holo_light_frame"
+        android:gravity="center" >
+
+        <ImageButton
+            android:id="@+id/btCancelarPedido"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.50"
+            android:contentDescription="@string/dialog_eliminar"
+            app:srcCompat="@drawable/ic_action_cancelar_pedido" />
+
+        <ImageButton
+            android:id="@+id/btConfirmarPedido"
+            android:layout_width="0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.50"
+            android:contentDescription="@string/dialog_pedidos_confirmar"
+            app:srcCompat="@drawable/ic_action_confirmar_pedido" />
+    </LinearLayout>
+
+</LinearLayout>

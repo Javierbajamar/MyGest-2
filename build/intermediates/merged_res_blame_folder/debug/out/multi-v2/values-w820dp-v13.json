@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.atecresa.application-mergeDebugResources-56:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\javie\\AndroidStudioProjects\\MyGest 2\\res\\values-w820dp\\strings.xml",
+                    "from": {
+                        "startLines": "7,8,2,6,5,10,9,3,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "396,451,57,333,272,595,500,124,225",
+                        "endColumns": "53,47,65,61,59,61,93,99,45",
+                        "endOffsets": "445,494,118,390,327,652,589,219,266"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,157,223,285,345,407,501,601",
+                        "endColumns": "53,47,65,61,59,61,93,99,45",
+                        "endOffsets": "104,152,218,280,340,402,496,596,642"
+                    }
+                }
+            ]
+        }
+    ]
+}

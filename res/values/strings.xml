@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">Mygest 2</string>
+    <string name="subtitulo_action_mesas_libres">Mesas libres</string>
+    <string name="subtitulo_action_operador">Selección de usuario</string>
+    <string name="txt_comensales">Comensales</string>
+    <string name="txt_total">Total</string>
+    <string name="txt_mesa">Mesa</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_si">SI</string>
+    <string name="dialog_no">NO</string>
+    <string name="dialog_cancelar">Cancelar</string>
+    <string name="dialog_aceptar">Aceptar</string>
+    <string name="dialog_pedido_en_curso">Pedido en curso</string>
+    <string name="dialog_cancelar_pedido_en_curso">¿Desea cancelar el pedido en curso?</string>
+    <string name="dialog_cancelar_vinculo">¿Desea cancelar movimiento?</string>
+    <string name="dialog_no_mover_linea">No se puede mover esta linea</string>
+    <string name="dialog_no_editar_linea">No se puede editar esta linea</string>
+    <string name="dialog_validando">Validando usuario</string>
+    <string name="dialog_enviando_comanda">Enviando comanda a cocina</string>
+    <string name="dialog_espere">Espere</string>
+    <string name="dialog_enviando">Enviando</string>
+    <string name="dialog_usuario_titulo">Identificación de usuario</string>
+    <string name="dialog_usuario_mensaje">Introduzca su clave de acceso</string>
+    <!-- mensajes toast -->
+    <string name="mensaje_demo">Modo demo</string>
+    <string name="mensaje_conf_servidor">Configure el servidor</string>
+    <string name="mensaje_salir_mesas_retenidas">EXISTEN MESAS RETENIDAS. No se puede salir del programa</string>
+    <string name="alert_titulo_texto_libre">Eliminar linea</string>
+    <string name="alert_texto_libre">¿Desea eliminar el texto libre?</string>
+    <string name="mensaje_error_conexion">Error de conexión. Revise su configuración</string>
+    <string name="mensaje_error_licencia">ERROR DE IDENTIFICACIÓN\nRegistre correctamente el comandero.\nSu número de serie es</string>
+    <string name="mensaje_error_caducado">ERROR DEMO CADUCADA</string>
+    <string name="mensaje_error_password">Contraseña incorrecta</string>
+    <string name="mensaje_linea_mover_facturada">No se pueden mover esta linea</string>
+    <string name="mensaje_linea_eliminada">Linea eliminada</string>
+    <string name="mensaje_mesa_editada">Mesa modificada correctamente</string>
+    <string name="mensaje_mesa_pagando">MESA PAGANDO No se puede facturar en esta mesa</string>
+    <string name="mensaje_mesa_retenida">Mesa retenida</string>
+    <string name="mensaje_mesa_no_editada">No se ha podido cambiar la mesa</string>
+    <string name="mensaje_lineas_no_insertadas">No se han podido insertar la lineas</string>
+    <string name="mensaje_mesa_bloqueada">Mesa bloqueada</string>
+    <string name="mensaje_no_se_puede_pedir_cuenta">No se puede pedir cuenta\nExisten lineas sin enviar</string>
+    <string name="mensaje_cargando_mesa">Cargando mesa</string>
+    <string name="mensaje_comandas_enviadas">Comanda enviada</string>
+    <string name="mensaje_comandas_sin_lineas">No hay lineas nuevas</string>
+    <string name="mensaje_comandas_no_enviadas">No hay red,se enviará la comandaCocina en cuanto haya cobertura wifi</string>
+    <string name="mensaje_wifi_desconectada">Atención, wifi desconectada, imposible enviar</string>
+    <string name="texto_seleccione_operador">Camareros</string>
+    <string name="mensaje_cuenta_pedida">Cuenta pedida para la mesa </string>
+    <string name="mensaje_comensales_guardados">Comensales guardados</string>
+    <!-- Pantalla de preferencias -->
+
+    <string name="pref_titulo_config_server">CONEXIONES</string>
+    <string name="pref_dialog_guardar">Guardar</string>
+    <string name="pref_dialog_cancelar">Cancelar</string>
+    <string name="pref_titulo_puerto">PUERTO</string>
+    <string name="pref_titulo_config_terminal">Opciones del comandero</string>
+    <string name="pref_sumario_teclado_fijo_positivo">No volver automáticamente al teclado de familias al seleccionar un plato</string>
+    <string name="pref_sumario_teclado_fijo_negativo">Volver automáticamente al teclado de familias al seleccionar un plato</string>
+    <string name="pref_titulo_teclado_fijo">Teclado fijo de artículos</string>
+    <string name="pref_sumario_teclado_fijo">Volver automáticamente al teclado de familias al seleccionar un plato</string>
+    <string name="pref_dialog_titulo_ip">IP del servidor</string>
+    <string name="pref_dialogo_titulo_puerto">Puerto del servidor</string>
+    <string name="pref_titulo_notificaciones_sonido">Sonido</string>
+    <string name="pref_sumario_notificaciones_sonido">Reproducir un sonido al recibir un nuevo pedido</string>
+    <string name="pref_sumario_notificaciones_sonido_positivo">Sonido activo</string>
+    <string name="pref_sumario_notificaciones_sonido_negativo">Sonido desactivado</string>
+    <string name="pref_txt_version">Versión</string>
+    <!-- Menu de Login -->
+    <string name="menu_login_refresh">Actualizar datos</string>
+    <string name="menu_cocina_refresh">Actualizar</string>
+    <string name="menu_login_ajustes">Ajustes generales</string>
+    <string name="menu_login_salir">Salir</string>
+    <!-- Menu de la comandaCocina -->
+    <string name="menu_comanda_pedir">Pedir</string>
+    <string name="menu_comanda_otras_opciones">Otras opciones</string>
+    <string name="menu_comanda_pedir_cuenta">Pedir cuenta</string>
+    <string name="menu_comanda_retener">Retener</string>
+    <string name="menu_comanda_comensales">Establecer comensales</string>
+    <string name="menu_comanda_cambio_mesa">Cambiar mesa del pedido</string>
+    <!-- Menu popup para el selectot de mesas -->
+    <string name="txt_etiqueta_texto_libre">Texto libre</string>
+    <string name="dialog_unidades">Unidades</string>
+    <string name="dialog_precio">Pvp</string>
+    <string name="txt_finalizar">Finalizar</string>
+    <string name="txt_bajar">bajar</string>
+    <string name="txt_add">Añadido</string>
+    <string name="txt_subir">subir</string>
+    <string name="txt_volver">Volver</string>
+    <string name="txt_unidades">Unidades</string>
+    <string name="txt_boton_mover">Mover</string>
+    <string name="txt_menu_buscar">Buscar</string>
+    <string name="txt_menu_escoja">Escoja</string>
+    <string name="txt_menu_unidades_abreviadas">ud</string>
+    <string name="txt_menu_cambiar_cliente">Cambiar cliente</string>
+    <string name="txt_titulo_buscar">Búsqueda de artículos</string>
+    <string name="txt_titulo_busca_clientes">Búsqueda de clientes</string>
+    <!-- Notificaciones -->
+    <string name="notificacion_myorder_ticker">Pedidos Myorder sin confirmar</string>
+    <string name="notificacion_myorder_titulo">Nuevo pedido Myorder</string>
+    <string name="notificacion_myorder_contenido">Existen pedidos pendientes de confirmar</string>
+    <string name="notificacion_cocina_ticker">Nuevos platos preparados</string>
+    <string name="progreso_consulta_myorder">Consultando nuevos pedidos</string>
+    <string name="mensaje_no_hay_pedidos">No hay pedidos pendientes de confirmar</string>
+    <string name="mensaje_error_cargando_pedido">Error cargando pedido</string>
+    <string name="mensaje_pedido_confirmado">Pedido confirmado</string>
+    <string name="mensaje_pedido_cancelado">Pedido cancelado</string>
+    <string name="actionbar_titulo_pedidos_myorder">Pedidos Myorder</string>
+    <string name="actionbar_subtitulo_pedidos_myorder">Sin confirmar</string>
+    <string name="dialog_pedidos_confirmar">Confirmar</string>
+    <string name="dialog_eliminar">Eliminar</string>
+    <string name="titulo_pedido">Pedido</string>
+    <string name="txt_num_comensales">Num comensales</string>
+    <string name="pref_columas_teclado">Columnas del teclado</string>
+    <string name="pref_columas_sumario">Número de columnas que se mostrarán en todos los teclados</string>
+    <string name="pref_columas_teclado_cocina">Ancho de columna pantalla cocina</string>
+    <string name="pref_columas_sumario_cocina">Ancho de columnas de cada mesa en la pantalla de cocina</string>
+    <string name="pref_alto_celda_teclado_cocina">Alto de casilla pantalla cocina</string>
+    <string name="pref_alto_celda_sumario_cocina">Alto de las celdas de cada plato en la pantalla de cocina</string>
+    <string name="pref_tam_letra">Tamaño de fuente</string>
+    <string name="pref_tam_letra_sumario">Tamaño de las letras de todos los teclados</string>
+    <string name="pref_tam_letra_titulo">Tamaño de fuente título</string>
+    <string name="pref_tam_letra_sumario_titulo">Tamaño de letra del número de mesa en cocina</string>
+    <string name="mensaje_no_mesas_libres">No hay mesas libres en</string>
+    <string name="mensaje_precio_inferior">No se puede guardar un precio inferior al pvp original</string>
+
+    <string name="menu_item_market">Comprobar versión</string>
+
+    <string name="menu_item_manual">Ver manual</string>
+
+    <string name="menu_item_conf_wifi">CONFIGURAR WIFI</string>
+
+    <string name="mensaje_error_market">Dispositivo sin Google Play instalado</string>
+
+    <string name="pref_titulo_modo">MODO DE USO</string>
+
+    <string name="titulo_dialog_modo">Seleccione el modo de uso de mygest</string>
+    <string name="mensaje_impresora_no_configurada">No se ha configurado este terminal como impresora de cocina</string>
+
+    <string name="titulo_dialog_texto_libre">Introduzca nuevo texto libre</string>
+
+    <string name="txt_notificar">Notificar</string>
+    <string name="txt_toast_cocina">No hay platos para notificar</string>
+    <string name="dialog_titulo_salir_cocina">Platos sin notificar</string>
+    <string name="dialog_mensaje_salir_cocina">Hay platos sin notificar\n¿Desea salir?</string>
+    <string name="titulo_combo_impresoras">Seleccione impresora</string>
+    <string name="titulo_impresoras">IMPRESORAS</string>
+    <string name="titulo_pref_impresoras">Elegir impresora prefactura</string>
+    <string name="titulo_sumario_impresoras">Mostrar cuadro para seleccionar la impresora para imprimir la cuenta del cliente</string>
+    <string name="txt_si_imp">Siempre</string>
+
+    <string name="txt_no_imp">No elegir. Imprimir sin preguntar</string>
+
+    <string name="txt_numero_de_serie">"Serial: "</string>
+    <string name="sumario_bluetooth">Seleccione la impresora bluetooth para prefacturas</string>
+    <string name="txt_no_usar_impresora_bluetooth">No usar impresora bluetooth</string>
+    <string name="txt_tpv_no_permite_bluetooth">Modo no compatible con impresoras bluetooth</string>
+    <string name="txt_hora_fecha">FECHA Y HORA</string>
+    <string name="txt_pendiente">TOTAL PENDIENTE</string>
+    <string name="txt_voz_notificaciones">VOZ Y NOTIFICACIONES</string>
+    <string name="title_activity_cobro">Cobro</string>
+    <string name="forma_pago">CANARYPAY</string>
+    <string name="msg_mostrar_cod_pago">Muestre el código al cliente para realizar pago</string>
+    <string name="txt_volver_a_generar_codigo">VOLVER A GENERAR CÓDIGO</string>
+    <string name="txt_total_1256">Total: 1256 €</string>
+    <string name="txt_mesa_1">Mesa 1</string>
+    <string name="txt_codigo_qr">Código QR</string>
+    <string name="title_activity_clientes">ClientesActivity</string>
+    <string name="pref_eviar_datos_gzip">DATOS ENCRIPTADOS</string>
+    <string name="configurar_empresa">Configurar cloud</string>
+    <string name="msg_sin_empresa">No hay empresa configurada, ¿quiere escanear el código?</string>
+    <string name="txt_cobrar">Cobrar</string>
+    <string name="txt_test_ui_terraza_200">Terraza 200  BLOQUEADA</string>
+    <string name="txt_test_ui_importe_10_00">Importe: 10,00</string>
+
+    <!-- SERVIDOR CLOUD -->
+    <string name="descripcion_content">descripcion</string>
+
+    <string name="consultar_ventas">Consultar ventas</string>
+    <string name="cerrar_turno">Cerrar turno</string>
+    <string name="compartir">Compartir</string>
+    <string name="msg_imprimir_via_bluetooth">No se ha podido imprimir vía Bluetooth</string>
+    <string name="title_activity_firma">FirmaActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="introduzca_firma">INTRODUZCA FIRMA</string>
+    <string name="cobro_dialog_Importe">¿Importe que entrega el cliente?</string>
+    <string-array name="listaModosMygest">
+        <item>Comandero</item>
+        <item>Pantalla cocina</item>
+        <item>Comandero Cloud</item>
+    </string-array>
+    <string-array name="listaValoresModosMygest">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="listaPasosCocina">
+        <item>Pulsar 1 vez: SIN HACER -> HECHO</item>
+        <item>Pulsar 2 veces: SIN HACER -> COCINANDO -> HECHO</item>
+    </string-array>
+    <string-array name="listaValoresPasosCocina">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="listaColumna">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="action_cocina_mesas">
+        <item>Mesas en curso</item>
+        <item>Mesas finalizadas</item>
+        <item>Todas las mesas</item>
+    </string-array>
+    <string-array name="lista_servidores">
+        <item>ategestservidores.net</item>
+        <item>softwaretpvgestion.com</item>
+    </string-array>
+
+</resources>

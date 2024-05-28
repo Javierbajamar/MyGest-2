@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_recargar"
+        android:icon="@drawable/ic_update_24dp"
+        android:title="@string/menu_login_refresh"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/otras_opciones_login"
+        android:icon="@drawable/ic_menu_ajustes_24dp"
+        android:title="@string/menu_comanda_otras_opciones"
+        app:showAsAction="always|collapseActionView">
+        <menu>
+            <item
+                android:id="@+id/itemConfig"
+                android:icon="@drawable/ic_ajustes_generales_24dp"
+                android:title="@string/menu_login_ajustes"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/itemUuid"
+                android:icon="@drawable/ic_config_uuid"
+                android:title="@string/configurar_empresa"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/itemMarket"
+                android:icon="@drawable/ic_info_24dp"
+                android:title="@string/menu_item_market"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/itemManual"
+                android:icon="@drawable/ic_action_manual"
+                android:title="@string/menu_item_manual"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/itemSalir"
+                android:icon="@drawable/ic_backspace_24dp"
+                android:title="@string/menu_login_salir"
+                app:showAsAction="never" />
+
+        </menu>
+    </item>
+
+</menu>

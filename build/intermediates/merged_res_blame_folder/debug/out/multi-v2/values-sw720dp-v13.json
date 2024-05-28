@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.atecresa.application-mergeDebugResources-56:/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\javie\\.gradle\\caches\\transforms-3\\90ea6c32c7b8c11264245a52038ffdb7\\transformed\\mediarouter-1.7.0\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    }
+                }
+            ]
+        }
+    ]
+}

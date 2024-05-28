@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/pref_titulo_config_terminal">
+        <PreferenceScreen
+            android:icon="@drawable/ic_connect_v2"
+            android:key="conf_server"
+            android:title="@string/pref_titulo_config_server">
+            <PreferenceCategory android:title="TPV">
+                <EditTextPreference
+                    android:dialogTitle="@string/pref_dialog_titulo_ip"
+                    android:enabled="true"
+                    android:key="ip"
+                    android:negativeButtonText="@string/pref_dialog_cancelar"
+                    android:positiveButtonText="@string/pref_dialog_guardar"
+                    android:selectable="true"
+                    android:summary=""
+                    android:title="IP" />
+                <EditTextPreference
+                    android:defaultValue="5000"
+                    android:dialogTitle="@string/pref_dialogo_titulo_puerto"
+                    android:enabled="true"
+                    android:inputType="number"
+                    android:key="puerto"
+                    android:negativeButtonText="@string/pref_dialog_cancelar"
+                    android:positiveButtonText="@string/pref_dialog_guardar"
+                    android:selectable="true"
+                    android:summary=""
+                    android:title="@string/pref_titulo_puerto" />
+                <EditTextPreference
+                    android:defaultValue="15"
+                    android:dialogTitle="Timeout"
+                    android:enabled="true"
+                    android:key="timeout"
+                    android:negativeButtonText="@string/pref_dialog_cancelar"
+                    android:positiveButtonText="@string/pref_dialog_guardar"
+                    android:selectable="true"
+                    android:title="TIMEOUT (sec)" />
+            </PreferenceCategory>
+            <PreferenceCategory
+                android:title="CLOUD">
+                <ListPreference
+                    android:defaultValue="softwaretpvgestion.com"
+                    android:entries="@array/lista_servidores"
+                    android:entryValues="@array/lista_servidores"
+                    android:key="servidor"
+                    android:title="SERVIDOR" />
+                <EditTextPreference
+                    android:dialogTitle="Introduzca nuevo identificador"
+                    android:enabled="true"
+                    android:key="uuid"
+                    android:negativeButtonText="@string/pref_dialog_cancelar"
+                    android:positiveButtonText="@string/pref_dialog_guardar"
+                    android:selectable="true"
+                    android:summary=""
+                    android:title="IDENTIFICADOR EMPRESA"
+                    android:defaultValue="92D446EC-7CBA-4FBE-BA4C-2ACA1A3BEBD2"/><!-- UUID DE DEMO PARA PROBAR -->
+                <CheckBoxPreference
+                    android:defaultValue="true"
+                    android:key="pref_ssh"
+                    android:title="USAR SSH" />
+                <CheckBoxPreference
+                    android:defaultValue="false"
+                    android:key="pref_envio_gzip"
+                    android:title="@string/pref_eviar_datos_gzip" />
+            </PreferenceCategory>
+            <PreferenceCategory android:title="Sistema">
+                <Preference
+                    android:icon="@drawable/ic_action_device_access_network_wifi"
+                    android:key="opt_conf_wifi"
+                    android:summary="Configuración de red"
+                    android:title="@string/menu_item_conf_wifi" />
+                <Preference
+                    android:icon="@drawable/ic_watch_later_white_24dp"
+                    android:key="opt_conf_hora"
+                    android:summary="Configurar fecha y hora para sincronización con el TPV"
+                    android:title="@string/txt_hora_fecha" />
+            </PreferenceCategory>
+        </PreferenceScreen>
+        <ListPreference
+            android:defaultValue="0"
+            android:dialogTitle="@string/titulo_dialog_modo"
+            android:enabled="true"
+            android:entries="@array/listaModosMygest"
+            android:entryValues="@array/listaValoresModosMygest"
+            android:icon="@drawable/ic_modo_uso_v2"
+            android:key="modo_mygest"
+            android:negativeButtonText="@string/dialog_cancelar"
+            android:positiveButtonText="@string/dialog_ok"
+            android:selectable="true"
+            android:shouldDisableView="true"
+            android:summary=""
+            android:title="@string/pref_titulo_modo" />
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:icon="@drawable/ic_clientes_v2"
+            android:key="seleccionar_cliente"
+            android:summaryOff="No se puede modificar el cliente"
+            android:summaryOn="El usuario puede modificar el cliente"
+            android:switchTextOff="NO"
+            android:switchTextOn="SI"
+            android:title="CLIENTES" />
+        <PreferenceScreen
+            android:icon="@drawable/ic_visuales"
+            android:key="conf_pantalla"
+            android:title="OPCIONES VISUALES">
+            <PreferenceCategory android:title="COMANDERO">
+                <CheckBoxPreference
+                    android:defaultValue="false"
+                    android:enabled="true"
+                    android:key="modo_una_mano"
+                    android:summary="Modo una mano"
+                    android:summaryOff="Habilitar para el uso del comandero con una sola mano"
+                    android:summaryOn="Habilitar para el uso del comandero con una sola mano"
+                    android:title="Usar menú inferior en comanda" />
+                <CheckBoxPreference
+                    android:defaultValue="true"
+                    android:enabled="true"
+                    android:key="teclado_unidades"
+                    android:summary="Teclado de unidades"
+                    android:summaryOff="Introducir las unidades manualmente"
+                    android:summaryOn="Mostrar teclado de unidades"
+                    android:title="Usar teclado de unidades" />
+                <CheckBoxPreference
+                    android:defaultValue="true"
+                    android:enabled="true"
+                    android:key="teclado_fijo_familias"
+                    android:summary="@string/pref_sumario_teclado_fijo"
+                    android:summaryOff="@string/pref_sumario_teclado_fijo_negativo"
+                    android:summaryOn="@string/pref_sumario_teclado_fijo_positivo"
+                    android:title="@string/pref_titulo_teclado_fijo" />
+
+                <ListPreference
+                    android:defaultValue="3"
+                    android:entries="@array/listaColumna"
+                    android:entryValues="@array/listaColumna"
+                    android:key="num_columnas"
+                    android:summary="@string/pref_columas_sumario"
+                    android:title="@string/pref_columas_teclado" />
+            </PreferenceCategory>
+            <PreferenceCategory android:title="Fuentes">
+                <EditTextPreference
+                    android:defaultValue="15"
+                    android:dialogTitle="@string/pref_tam_letra"
+                    android:enabled="true"
+                    android:inputType="number"
+                    android:key="tam_fuente"
+                    android:negativeButtonText="@string/pref_dialog_cancelar"
+                    android:positiveButtonText="@string/pref_dialog_guardar"
+                    android:selectable="true"
+                    android:summary="@string/pref_tam_letra_sumario"
+                    android:title="@string/pref_tam_letra" />
+                <EditTextPreference
+                    android:defaultValue="50"
+                    android:dialogTitle="@string/pref_tam_letra_titulo"
+                    android:inputType="number"
+                    android:key="tam_fuente_titulo"
+                    android:negativeButtonText="@string/pref_dialog_cancelar"
+                    android:positiveButtonText="@string/pref_dialog_guardar"
+                    android:selectable="true"
+                    android:summary="@string/pref_tam_letra_sumario_titulo"
+                    android:title="@string/pref_tam_letra_titulo" />
+            </PreferenceCategory>
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/ic_pantalla_cocina_v2"
+            android:title="PANTALLA DE COCINA">
+            <ListPreference
+                android:defaultValue="1"
+                android:entries="@array/listaPasosCocina"
+                android:entryValues="@array/listaValoresPasosCocina"
+                android:key="pasos_cocina"
+                android:summary="Pasos para confirmar platos y notificarlos"
+                android:title="Confirmar platos" />
+            <EditTextPreference
+                android:defaultValue="250"
+                android:dialogTitle="@string/pref_columas_teclado_cocina"
+                android:enabled="true"
+                android:inputType="number"
+                android:key="tam_ancho_columnas_cocina"
+                android:negativeButtonText="@string/pref_dialog_cancelar"
+                android:positiveButtonText="@string/pref_dialog_guardar"
+                android:selectable="true"
+                android:summary="@string/pref_columas_sumario_cocina"
+                android:title="@string/pref_columas_teclado_cocina" />
+            <EditTextPreference
+                android:defaultValue="25"
+                android:dialogTitle="@string/pref_alto_celda_teclado_cocina"
+                android:enabled="true"
+                android:inputType="number"
+                android:key="tam_alto_celda_cocina"
+                android:negativeButtonText="@string/pref_dialog_cancelar"
+                android:positiveButtonText="@string/pref_dialog_guardar"
+                android:selectable="true"
+                android:summary="@string/pref_alto_celda_sumario_cocina"
+                android:title="@string/pref_alto_celda_teclado_cocina" />
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/ic_imprimir_v2"
+            android:key="conf_impresoras"
+            android:title="@string/titulo_impresoras">
+            <CheckBoxPreference
+                android:defaultValue="false"
+                android:enabled="true"
+                android:key="seleccionar_impresora_prefactura"
+                android:summary="@string/titulo_sumario_impresoras"
+                android:summaryOff="@string/txt_no_imp"
+                android:summaryOn="@string/txt_si_imp"
+                android:title="@string/titulo_pref_impresoras" />
+
+            <Preference
+                android:key="opt_bluetooth"
+                android:summary="@string/sumario_bluetooth"
+                android:title="Impresora Bluetooth" />
+
+        </PreferenceScreen>
+        <PreferenceScreen
+            android:icon="@drawable/ic_notificaciones_v2"
+            android:key="conf_notif"
+            android:title="@string/txt_voz_notificaciones">
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:key="notificaciones_con_sonido"
+                android:summary="@string/pref_sumario_notificaciones_sonido"
+                android:summaryOff="@string/pref_sumario_notificaciones_sonido_negativo"
+                android:summaryOn="@string/pref_sumario_notificaciones_sonido_positivo"
+                android:title="@string/pref_titulo_notificaciones_sonido" />
+            <CheckBoxPreference
+                android:defaultValue="true"
+                android:enabled="true"
+                android:key="comandos_de_voz"
+                android:summary="Usar comandos y notificaciones por voz"
+                android:summaryOff="Desactivadas"
+                android:summaryOn="Activas"
+                android:title="Comandos de voz" />
+        </PreferenceScreen>
+
+
+    </PreferenceCategory>
+    <PreferenceScreen
+        android:icon="@drawable/ic_euro_symbol"
+        android:key="conf_payment"
+        android:title="PAGOS"
+        android:summary="Configuración de plataforma de pago"
+        android:enabled="true"
+        android:shouldDisableView="false"><!-- DESACTIVADA POR AHORA -->
+        <PreferenceCategory android:title="DATOS DE USUARIO">
+            <EditTextPreference
+                android:dialogTitle="Escriba su email"
+                android:enabled="true"
+                android:key="pago_email"
+                android:inputType="textEmailAddress"
+                android:negativeButtonText="@string/pref_dialog_cancelar"
+                android:positiveButtonText="@string/pref_dialog_guardar"
+                android:selectable="true"
+                android:summary=""
+                android:title="Email" />
+            <EditTextPreference
+                android:dialogTitle="Escriba número de móvil de la cuenta"
+                android:enabled="true"
+                android:inputType="phone"
+                android:key="pago_phone"
+                android:negativeButtonText="@string/pref_dialog_cancelar"
+                android:positiveButtonText="@string/pref_dialog_guardar"
+                android:selectable="true"
+                android:summary=""
+                android:title="Número de móvil" />
+            <EditTextPreference
+                android:dialogTitle="Escriba contraseña de la cuenta"
+                android:enabled="true"
+                android:inputType="textPassword"
+                android:key="pago_password"
+                android:negativeButtonText="@string/pref_dialog_cancelar"
+                android:positiveButtonText="@string/pref_dialog_guardar"
+                android:selectable="true"
+                android:summary=""
+                android:title="Password" />
+            <EditTextPreference
+                android:dialogTitle="Escriba dirección de servidor"
+                android:enabled="true"
+                android:key="pago_servidor"
+                android:inputType="text"
+                android:negativeButtonText="@string/pref_dialog_cancelar"
+                android:positiveButtonText="@string/pref_dialog_guardar"
+                android:selectable="true"
+                android:summary=""
+                android:defaultValue="https://backend.evolupay.net/api/v1"
+                android:title="Servidor de plataforma de pago" />
+        </PreferenceCategory>
+    </PreferenceScreen>
+    <PreferenceCategory android:title="SOPORTE">
+        <Preference
+            android:icon="@drawable/ic_teamviewer_v2"
+            android:key="opt_teamviewer"
+            android:summary="Descargar Teamviewer QS en el dispositivo"
+            android:title="TEAMVIEWER" />
+        <Preference
+            android:icon="@drawable/ic_info_v2"
+            android:key="opt_info"
+            android:summary="Ver información de hardware y software del terminal"
+            android:title="Información del terminal" />
+        <Preference
+            android:icon="@drawable/ic_beta"
+            android:key="opt_beta"
+            android:summary="Descargar versión con nuevas funciones en pruebas"
+            android:title="Probar versión BETA" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

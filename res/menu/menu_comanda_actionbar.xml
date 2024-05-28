@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="AppCompatResource">
+
+    <item
+        android:id="@+id/action_comanda_pedir"
+        android:icon="@drawable/ic_check_v2"
+        app:showAsAction="ifRoom|withText"
+        android:title="" />
+    <item
+        android:id="@+id/action_comanda_buscar_articulo"
+        android:icon="@drawable/ic_search_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title=""/>
+
+    <item
+        android:id="@+id/action_comanda_otras_opciones"
+        android:icon="@drawable/ic_menu_ajustes_24dp"
+        app:showAsAction="always|collapseActionView"
+        android:title="@string/menu_comanda_otras_opciones">
+        <menu>
+            <item
+                android:id="@+id/action_comanda_cobrar"
+                android:icon="@drawable/ic_euro_symbol_vector_24dp"
+                android:title="@string/txt_cobrar"
+                app:showAsAction="ifRoom|withText" />
+            <item
+                android:id="@+id/action_comanda_cambiar_cliente"
+                android:icon="@drawable/ic_cambio_cliente_24dp"
+                app:showAsAction="ifRoom|withText"
+                android:title="@string/txt_menu_cambiar_cliente"/>
+            <item
+                android:id="@+id/action_comanda_pedir_cuenta"
+                android:icon="@drawable/ic_pedir_cuenta_24dp"
+                app:showAsAction="ifRoom|withText"
+                android:title="@string/menu_comanda_pedir_cuenta"/>
+            <item
+                android:id="@+id/action_comanda_retener"
+                android:icon="@drawable/ic_retener_24dp"
+                app:showAsAction="ifRoom|withText"
+                android:title="@string/menu_comanda_retener"/>
+            <item
+                android:id="@+id/action_comanda_comensales"
+                android:icon="@drawable/ic_comensales_24dp"
+                app:showAsAction="ifRoom|withText"
+                android:title="@string/menu_comanda_comensales"/>
+            <item
+                android:id="@+id/action_comanda_cambio_mesa"
+                android:icon="@drawable/ic_cambio_mesa_24dp"
+                app:showAsAction="ifRoom|withText"
+                android:title="@string/menu_comanda_cambio_mesa" />
+            <item
+                android:id="@+id/action_comanda_cancela"
+                android:icon="@drawable/ic_backspace_24dp"
+                app:showAsAction="ifRoom|withText"
+                android:title="@string/menu_login_salir">
+            </item>
+        </menu>
+    </item>
+
+</menu>

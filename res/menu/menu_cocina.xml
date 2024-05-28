@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_cocina_notificar"
+        android:icon="@drawable/ic_check_white_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/txt_notificar">
+    </item>
+
+    <item
+        android:id="@+id/action_cocina_recargar"
+        android:icon="@drawable/ic_update_24dp"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/menu_cocina_refresh">
+    </item>
+    <item
+        android:id="@+id/action_cocina_mute"
+        android:icon="@drawable/ic_mic_off_24dp"
+        app:showAsAction="always"
+        android:title="@string/txt_notificar" />
+    <item
+        android:id="@+id/action_cocina_salir"
+        android:icon="@drawable/ic_backspace_24dp"
+        app:showAsAction="ifRoom"
+        android:title="@string/menu_login_salir">
+    </item>
+
+</menu>

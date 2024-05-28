@@ -1,0 +1,1010 @@
+[
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_update_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_update_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_busqueda_clientes.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_busqueda_clientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_connect_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_connect_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_visuales.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_visuales.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_bluetooth_white_24dp.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_bluetooth_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxxhdpi_ic_check_circle.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxxhdpi\\ic_check_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_check_circle.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_check_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_enlace.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_enlace.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_item_combo_unidades.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_item_combo_unidades.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_modo_una_mano.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_modo_una_mano.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_cocina.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_cocina.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_toast_custom_info.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\toast_custom_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_imprimir_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_imprimir_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_notificaciones_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_notificaciones_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_header_cocina_acumulado_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_header_cocina_acumulado_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_teclado_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_teclado_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_ver_ventas.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_ver_ventas.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_check_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_check_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_beta.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_beta.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_item_grid_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_item_grid_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_login_item_operador.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\login_item_operador.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_teclado_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_teclado_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_toast_custom_error.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\toast_custom_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_clientes_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_clientes_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_notificaciones_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_notificaciones_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_selector_mesa.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_selector_mesa.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_cambio_mesa_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_cambio_mesa_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_crop_square.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_crop_square.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_teamviewer_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_teamviewer_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_search_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_search_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\xml_backup.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\xml\\backup.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_imprimir_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_imprimir_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\font_roboto_bold.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\font\\roboto_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_launcher_2019.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_launcher_2019.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_barra_progreso.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_barra_progreso.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_clientes_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_clientes_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_beta.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_beta.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_connect_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_connect_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_euro_symbol.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_euro_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_beta.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_beta.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_modo_una_mano.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_modo_una_mano.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_config_uuid.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_config_uuid.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_send_firma.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_send_firma.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_send_firma.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_send_firma.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_config_uuid.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_config_uuid.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_config_uuid.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_config_uuid.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_check_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_check_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_bluetooth_white_24dp.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_bluetooth_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_lista_clientes.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\lista_clientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_login_activity_content.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\login_activity_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_modo_una_mano.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_modo_una_mano.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_background_error.jpg.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\background_error.jpg"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_launcher_2019.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_launcher_2019.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_cliente_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_cliente_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_item_linea.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_item_linea.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_payment_ok.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_payment_ok.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_activity_content_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_activity_content_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_activity_pedido.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\activity_pedido.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_euro_symbol.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_euro_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_action_confirmar_comanda.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_action_confirmar_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_dialog_cobros.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\dialog_cobros.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_teclado_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_teclado_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_activity_buscar_cliente.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\activity_buscar_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_check_circle.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_check_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_volver_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_volver_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_connect_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_connect_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_cobros_tpv_dialog_firma.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\cobros_tpv_dialog_firma.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxxhdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxxhdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_action_device_access_network_wifi.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_action_device_access_network_wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_cambio_cliente_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_cambio_cliente_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_action_cancelar_pedido.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_action_cancelar_pedido.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_plato_acumulado.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_plato_acumulado.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_ver_ventas.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_ver_ventas.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_item_grid.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_item_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_info_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_info_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxxhdpi_ic_crop_square.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxxhdpi\\ic_crop_square.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_cobro.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_cobro.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_beta.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_beta.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_send_firma.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_send_firma.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_activity_content_v1.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_activity_content_v1.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_crop_square.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_crop_square.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_info_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_info_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_activity_manual_pdf.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\activity_manual_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_send_firma_asset.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_send_firma_asset.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_visuales.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_visuales.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_add_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_add_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_busqueda_articulos.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_busqueda_articulos.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_menu_ajustes_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_menu_ajustes_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_comanda_actionbar.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_comanda_actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_visuales.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_visuales.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_action_cancelar_pedido.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_action_cancelar_pedido.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_activity_buscar.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\activity_buscar.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_hacer_z.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_hacer_z.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_tab_mesas.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_tab_mesas.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_teclado_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_teclado_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_config_uuid.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_config_uuid.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_ver_ventas.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_ver_ventas.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_info_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_info_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_pedir_cuenta_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_pedir_cuenta_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_info_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_info_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_cobros_tpv_activity.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\cobros_tpv_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_launcher_2019.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_launcher_2019.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_enlace.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_enlace.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_comanda_buttonbar.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_comanda_buttonbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_share.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_modo_uso_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_modo_uso_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_modo_una_mano.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_modo_una_mano.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_launcher_2019.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_launcher_2019.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_enlace.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_enlace.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\xml_nfc_tech_filter.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\xml\\nfc_tech_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_notificaciones_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_notificaciones_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_euro_symbol_vector_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_euro_symbol_vector_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_info_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_info_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_header_cocina_acumulado_v3.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_header_cocina_acumulado_v3.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_action_vinculos.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_action_vinculos.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_teamviewer_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_teamviewer_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_check_white_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_check_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_imprimir_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_imprimir_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_crop_square.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_crop_square.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_action_confirmar_pedido.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_action_confirmar_pedido.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_teclado_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_teclado_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_imprimir_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_imprimir_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_hacer_z.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_hacer_z.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_share.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_action_mover.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_action_mover.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_euro_symbol.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_euro_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_backspace_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_backspace_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_navigation_clientes.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\navigation_clientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_clientes_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_clientes_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_info_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_info_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_action_confirmar_pedido.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_action_confirmar_pedido.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_send_firma_asset.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_send_firma_asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_action_cancelar_pedido.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_action_cancelar_pedido.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_send_firma_asset.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_send_firma_asset.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_plato_cocina_compatible.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_plato_cocina_compatible.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_content_buscador.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\content_buscador.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_euro_symbol.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_euro_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxxhdpi_ic_euro_symbol.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxxhdpi\\ic_euro_symbol.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_activity_clientes.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\activity_clientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_check_circle.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_check_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_ver_ventas.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_ver_ventas.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_hacer_z.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_hacer_z.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_ver_ventas.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_ver_ventas.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_pedidos_download_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_pedidos_download_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_action_manual.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_action_manual.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_dialog_editor_comensales.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_dialog_editor_comensales.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_connect_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_connect_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_check_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_check_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_imprimir_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_imprimir_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_selector_mesa_item.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\selector_mesa_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_clientes_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_clientes_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_background_negro.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\background_negro.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_action_manual.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_action_manual.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_pantalla_cocina_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_pantalla_cocina_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_action_confirmar_pedido.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_action_confirmar_pedido.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_send_firma.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_send_firma.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_add_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_add_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_send_firma_asset.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_send_firma_asset.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_pantalla_cocina_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_pantalla_cocina_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_modo_uso_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_modo_uso_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_background_action_bar.jpg.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\background_action_bar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_teamviewer_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_teamviewer_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_pantalla_cocina_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_pantalla_cocina_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_add_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_add_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_comensales_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_comensales_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_mic_off_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_mic_off_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_teamviewer_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_teamviewer_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_action_cobro.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_action_cobro.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_add_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_add_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_modo_una_mano.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_modo_una_mano.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_volver_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_volver_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_volver_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_volver_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\font_roboto_thin.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\font\\roboto_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_articulo.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_articulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_add_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_add_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_volver_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_volver_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_action_confirmar_vinculo.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_action_confirmar_vinculo.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_pantalla_cocina_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_pantalla_cocina_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_send_firma_asset.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_send_firma_asset.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_activity.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxxhdpi_ic_launcher_2019.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxxhdpi\\ic_launcher_2019.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_cocina_activity.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\cocina_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_notificaciones_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_notificaciones_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_action_device_access_network_wifi.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_action_device_access_network_wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_hacer_z.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_hacer_z.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_visuales.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_visuales.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_dialog_editor_linea.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_dialog_editor_linea.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_watch_later_white_24dp.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_watch_later_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_action_camera.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_action_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_header_cocina.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_header_cocina.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_ajustes_generales_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_ajustes_generales_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_bluetooth_white_24dp.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_bluetooth_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_selector_mesa_activity.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\selector_mesa_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_plato_cocina_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_plato_cocina_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_dialog_cobro_canarypay.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\dialog_cobro_canarypay.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_check_circle.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_check_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable_ic_retener_24dp.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable\\ic_retener_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_selector_mesa_item_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\selector_mesa_item_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_cocina_content_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\cocina_content_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_comanda_activity_content_v3.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\comanda_activity_content_v3.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_activity_visor_docs.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\activity_visor_docs.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_action_device_access_network_wifi.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_action_device_access_network_wifi.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_share.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_beta.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_beta.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_payment_error.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_payment_error.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_modo_uso_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_modo_uso_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_action_mover.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_action_mover.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_action_confirmar_comanda.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_action_confirmar_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_action_confirmar_comanda.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_action_confirmar_comanda.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_login_item_operador_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\login_item_operador_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_action_visor.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_action_visor.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_plato_acumulado_compatible.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_plato_acumulado_compatible.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_modo_uso_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_modo_uso_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_pantalla_cocina_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_pantalla_cocina_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_action_confirmar_vinculo.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_action_confirmar_vinculo.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_activity_cobro_canarypay.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\activity_cobro_canarypay.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_clientes_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_clientes_v2.xml"
+    },
+    {
+        "merged": "com.atecresa.application-merged_res-58:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.atecresa.application-MyGest 2-59:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_volver_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_volver_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_teamviewer_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_teamviewer_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_activity_print.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\activity_print.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_connect_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_connect_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_check_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_check_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_crop_square.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_crop_square.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\layout_item_header_cocina_compatible.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\layout\\item_header_cocina_compatible.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_modo_uso_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_modo_uso_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_action_mover.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_action_mover.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xxhdpi_ic_send_firma.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xxhdpi\\ic_send_firma.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_watch_later_white_24dp.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_watch_later_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_visuales.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_visuales.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_config_uuid.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_config_uuid.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_check_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_check_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\xml_preferencias.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\xml\\preferencias.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-anydpi_ic_hacer_z.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-anydpi\\ic_hacer_z.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\menu_menu_login_v2.xml.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\menu\\menu_login_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_notificaciones_v2.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_notificaciones_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-mdpi_ic_watch_later_white_24dp.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-mdpi\\ic_watch_later_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-hdpi_ic_action_manual.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-hdpi\\ic_action_manual.png"
+    },
+    {
+        "merged": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-merged_res-58:\\drawable-xhdpi_ic_action_confirmar_vinculo.png.flat",
+        "source": "C:\\Users\\javie\\.gradle\\daemon\\7.5\\com.atecresa.application-MyGest 2-59:\\drawable-xhdpi\\ic_action_confirmar_vinculo.png"
+    }
+]

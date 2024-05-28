@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardElevation="2dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="50dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tvAcumulado"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/blanco"
+            android:gravity="center_vertical"
+            android:maxWidth="250dp"
+            android:minWidth="250dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="2dp"
+            android:text="plato cocina"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

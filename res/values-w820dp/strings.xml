@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="configurar_empresa">Configurar empresa</string>
+    <string name="msg_sin_empresa">No hay empresa configurada, ¿quiere escanear el código?</string>
+    <string name="txt_cobrar">Cobrar</string>
+    <string name="descripcion_content">descripcion</string>
+    <string name="consultar_ventas">Consultar ventas</string>
+    <string name="cerrar_turno">Cerrar turno</string>
+    <string name="compartir">Compartir</string>
+    <string name="msg_imprimir_via_bluetooth">No se ha podido imprimir vía Bluetooth</string>
+    <string name="introduzca_firma">INTRODUZCA FIRMA</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txt_rango_cocina"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/naranja_app"
+        android:gravity="center"
+        android:maxWidth="250dp"
+        android:minWidth="250dp"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/txt_titulo_cocina"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/naranja_app"
+        android:gravity="center"
+        android:maxWidth="250dp"
+        android:minWidth="250dp"
+        android:text="Encabezado"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/c1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Chronometer"
+        android:gravity="center"
+        android:maxWidth="250dp"
+        android:minWidth="250dp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/txt_subtitulo_cocina"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/naranja_app"
+        android:gravity="center"
+        android:maxWidth="250dp"
+        android:minWidth="250dp"
+        android:text=""
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</LinearLayout>

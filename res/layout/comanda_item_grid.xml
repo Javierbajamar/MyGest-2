@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ITEM PARA GRID DE FAMILIAS Y ARTÍCULOS -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:drawable/btn_default_small"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/txtSuperior"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:minHeight="100dp"
+        android:text="familia"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
